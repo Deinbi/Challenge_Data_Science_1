@@ -1,4 +1,8 @@
 <h1> PRIMER PROYECTO COMO ANALISTA DE DATOS DE ALURA</h1>
+
+### Lic. Prof. Walter Néstor Mancuso
+### 18/04/2025
+
 # 📊 Análisis Comparativo de Tiendas - Challenge Data Science
 
 ## 🧠 Objetivo
